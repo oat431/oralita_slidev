@@ -29,6 +29,11 @@ src: ./pages/English-Skill/overview.md
 ---
 
 ---
+routeAlias: English-Skill-Ch01-Foundation
+src: ./pages/English-Skill/01-Foundation/overview.md
+---
+
+---
 routeAlias: Math-For-SWE-Overview
 src: ./pages/Math-For-SWE/overview.md
 ---
