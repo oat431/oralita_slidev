@@ -1,6 +1,6 @@
 # Overview
 
-- <Link to="English-Skill-Overview" title="English Skill" />
-- <Link to="Math-For-SWE-Overview" title="Matht For SWE"/>
-- <Link to="Programming-Overview" title="Programming Materials" />
-- <Link to="SWE-Overview" title="Software Engineering" />
+- <a href="/English-Skill-Overview" class="text-blue-500 underline">English Skill</a>
+- <a href="/Math-For-SWE-Overview" class="text-blue-500 underline">Math For SWE</a>
+- <a href="/Programming-Overview" class="text-blue-500 underline">Programming Materials</a>
+- <a href="/SWE-Overview" class="text-blue-500 underline">Software Engineering</a>
